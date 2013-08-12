@@ -21,7 +21,9 @@
 ##        edits a config file then reopens audacious...)
 ##        
 
-import os
+## ***uncomment this line to import the os module and take responsibility for what may
+## happen as a result.  But you might want the ahps.sh file instad.***
+##import os
 import time
 
 def change_config_file():

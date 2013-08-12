@@ -1,3 +1,5 @@
+USE THE .sh FILE!  IT'S BETTER!
+
 This is a little script that allows one to advance to a different playlist in
 Audacious while using headless mode.  I use it because I've taken to using 
 conky to display my Audacious info and thus don't keep a visible instance 
@@ -5,8 +7,7 @@ running.  This is a dirty little program and I'm sure Audacious will make
 an "audtool --playlist-next" or "audtool --playback-next-playlist" option at
 some point, but in the meantime...
 
-Review the script before using it, maybe change the os module to to the 
-subprocess module.
+As always review the script before using it (no it's not pretty).
 
 
 License is GNU GPLv3 which basically means do what you want but don't sell my
