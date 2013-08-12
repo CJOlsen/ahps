@@ -20,7 +20,7 @@ Here's some sample conky code (from ~/.conkyrc):
 
 ${if_running audacious}
 Current Song:
- Artist:    ${exec audtool --current-song-tuple-data artist}
+Artist:    ${exec audtool --current-song-tuple-data artist}
  Song:	     ${exec audtool --current-song-tuple-data title}
  Album:     ${exec audtool --current-song-tuple-data album}
 Audacious Controls
