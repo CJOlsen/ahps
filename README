@@ -56,6 +56,6 @@ aaaand some Openbox keymappings (from .../openbox/rc.xml):
     <!-- custom audacious playlist changer button!!! -->
     <keybind key="C-A-8">
       <action name="Execute">
-	<command>~/scripts/ahpsudacious_headless_playlist_switcher.py</command>
+	<command>~/scripts/ahps.sh</command>
       </action>
     </keybind>
