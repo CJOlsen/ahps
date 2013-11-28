@@ -3,17 +3,6 @@
 ## 
 ## Title: ahps.py
 ## Author: Christopher Olsen
-## Copyright 2013 Christopher Olsen
-## License: GPLv3, GNU General Public License Version 3
-## License Note: *My* use of the GPL *ONLY* affects *MY* code, I have no 
-##               affiliation with Audacious and they have nothing to do with
-##               this script.  Use at your own risk.  This script comes with 
-##               no warranty.  Back up your Audacious config files before using
-##               it, this is just an afternoon project and now I've spent 
-##               almost as much time worrying about the license as writing it.
-##               I make no guarantee that this thing won't brick your computer.
-##               Make sure you're happy with how it's making system calls before
-##               using it!  
 ##               
 ## About: a little script to change the Audacious playlist in headless mode.
 ##        map a keystroke to it and now you can switch playlists while using
